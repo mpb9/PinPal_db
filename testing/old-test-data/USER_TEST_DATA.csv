@@ -1,0 +1,5 @@
+ID,NAME,EMAIL,PASSWORD,ABOUT,PBLC,DEFAULT_ICON
+mike,mike beebe,mike@gmail.com,password,example bio,1,film-strip #ff0000 fill true
+michaelbeebe,michael beebe,michaelbeebe1031@gmail.com,password,hi i'm michael,1,lego #000000 regular false
+meganzhang,megan zhang,meganzhang@gmail.com,password,hi i'm megan,1,tiktok-logo #b700fa duotone false
+chester,chester beebe,chester@gmail.com,password,bow wow wow yippie yo yippie yay,0,toilet-paper #006a80 thin true
